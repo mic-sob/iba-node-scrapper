@@ -1,0 +1,19 @@
+{
+  "name": "iba-node-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cheerio": "^1.0.0-rc.10",
+    "ts-node": "^10.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
